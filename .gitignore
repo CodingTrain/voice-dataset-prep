@@ -1,0 +1,9 @@
+vgrep
+dataset
+*.wav
+*.zip
+node_modules
+*.mp4
+*.vtt
+videos
+.DS_Store
