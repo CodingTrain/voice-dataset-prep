@@ -1,5 +1,5 @@
 vgrep
-dataset
+dataset*
 *.wav
 *.zip
 node_modules
