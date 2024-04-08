@@ -5,5 +5,7 @@ dataset*
 node_modules
 *.mp4
 *.vtt
+transcripts/
+transcripts-txt/
 videos
 .DS_Store
