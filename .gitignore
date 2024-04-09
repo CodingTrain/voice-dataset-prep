@@ -9,3 +9,4 @@ transcripts/
 transcripts-txt/
 videos
 .DS_Store
+*.json
